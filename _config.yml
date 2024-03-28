@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: chuchuren的个人小站
-email: whe1303721874@gmial.com
-author: chuchuren
+title: "chuchuren的个人小站"
+email: "whe1303721874@gmial.com""
+author: "chuchuren"
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:

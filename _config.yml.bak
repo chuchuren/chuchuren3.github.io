@@ -39,7 +39,7 @@ author: chuchuren
 # For example:
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
-Copyright © 2024-{currentYear} Chuchuren"
+Copyright setting: "Copyright © 2024-{currentYear} Chuchuren"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -69,10 +69,10 @@ yat:
 # enableDNT: "false"
 
 # If you want to generate website sitemap, you can set true
-# sitemap: true
+sitemap: true
 
 # If you want to change site language, you can set lang option
-# lang: "zh-CN"  # default lang is en
+lang: "zh-CN"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
@@ -164,6 +164,11 @@ yat:
 #     heading: "chuchuren的小站"
 #     subheading: "In solitude, where we are least alone"
 #     banner: "home.jpeg"
+ defaults:
+   home:
+     heading: "chuchuren的小站"
+     subheading: "In solitude, where we are least alone"
+     banner: "home.jpeg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
