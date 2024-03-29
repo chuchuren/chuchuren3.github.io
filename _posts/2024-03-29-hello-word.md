@@ -1,6 +1,10 @@
 ---
 layout: post
+<<<<<<< HEAD
 title:Hello World!
+=======
+title: Hellow World!
+>>>>>>> e6182c82b8b810b8e39c012599282e4ee33466fa
 subtitle: 我们终会相遇相知，在那悠远的苍穹
 excerpt_image: https://raw.githubusercontent.com/chuchuren/chuchuren3.github.io/master/assets/images/2024-03-29.jpg
 categories: markdown
