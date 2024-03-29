@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: chuchuren的个人小站
+title: chuchuren's personal website
 email: whe1303721874@gmial.com
 author: chuchuren
 
@@ -155,7 +155,7 @@ brand_color: orangered
 # this and add the path to the pages in order as they should show up
 header_pages:
   - index.html
-  - about.md
+  - about.html
   - articles.html
   - comments.html
   - tags.html
