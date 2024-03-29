@@ -9,11 +9,12 @@ banner:
   background: "#000"
   height: "100vh"
   min_height: "38vh"
-  subheading_style: "color: #081253"
+  heading_style: "font-family: fangsong;font-size: 3em; font-weight: bold"
+  subheading_style: "color: white"
 tags: 
 top: 1
 ---
-## 关于 About
+## <i class="fad fa-pencil-ruler"></i>关于 About
 
 24岁，是学生（雾）。
 
@@ -21,7 +22,7 @@ ACG泛爱好者，P社爱好者。
 
 喜欢在个人网站更新一点文字。
 
-## 联系方式 Contact
+## <i class="fad fa-mail-bulk"></i> 联系方式 Contact
 
 邮箱：chuchuren1984@163.com
 
