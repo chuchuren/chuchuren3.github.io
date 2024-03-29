@@ -111,6 +111,7 @@ lang: "zh-CN"
 #
 # Custom color as below:
 # theme_color: "#882250"
+theme_color: #56A7D0
 
 # You can choose a brand color
 # Default brand colors as below:
@@ -119,6 +120,7 @@ lang: "zh-CN"
 # greenblue: #389092
 #
 # brand_color: orangered
+brand_color: orangered
 #
 # Custom color as below:
 # brand_color: "#1a8e42"
