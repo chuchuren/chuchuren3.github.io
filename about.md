@@ -1,10 +1,10 @@
 ---
 layout: post
-title: About 关于
+title: 关于
 subtitle: 彼方の向こうに、何かが見える/遥望远方，答案就在天空的那一端
 author: chuchuren
 banner:
-  image: https://github.com/chuchuren/chuchuren3.github.io/tree/master/assets/images/about.jpg
+  image: https://github.com/chuchuren/chuchuren3.github.io/blob/master/assets/images/about.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"
