@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Hellow World!
+title: Hellow World!
 subtitle: 我们终会相遇相知，在那悠远的苍穹
 excerpt_image: https://raw.githubusercontent.com/chuchuren/chuchuren3.github.io/master/assets/images/2024-03-29.jpg
 categories: markdown
