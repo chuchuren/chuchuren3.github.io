@@ -155,7 +155,7 @@ brand_color: orangered
 # this and add the path to the pages in order as they should show up
 header_pages:
   - index.html
-  - about.html
+  - about.md
   - articles.html
   - comments.html
   - tags.html
