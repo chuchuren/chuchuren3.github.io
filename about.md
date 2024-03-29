@@ -1,14 +1,7 @@
 ---
 layout: post
 title: 关于
-subtitle: “遥望远方，答案就在天空的那一端”————《苍之彼方的四重奏》<br />
-          24岁，是学生（雾）。<br />
-          泛ACG爱好者，P社爱好者。<br />
-          喜欢在个人网站更新一点文字。<br />              
-          邮箱：chuchuren1984@163.com<br />
-          bilibili：36583369<br />               
-          萌百：Aliiaalio<br />
-
+subtitle: “遥望远方，答案就在天空的那一端”————《苍之彼方的四重奏》<br>24岁，是学生（雾）。<br>泛ACG爱好者，P社爱好者。<br>喜欢在个人网站更新一点文字。<br>邮箱：chuchuren1984@163.com<br>bilibili：36583369<br>萌百：Aliiaalio
 author: chuchuren
 banner:
   image: https://raw.githubusercontent.com/chuchuren/chuchuren3.github.io/master/assets/images/about.jpg
