@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: about
 title: 关于
 subtitle: “遥望远方，答案就在天空的那一端”——《苍之彼方的四重奏》
 author: chuchuren
