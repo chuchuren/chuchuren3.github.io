@@ -40,12 +40,12 @@ author: chuchuren
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Copyright (c) 2017- {currentYear} Chuchuren"
+copyright: "Copyright (c) 2017- {currentYear} Chuchuren  <a href="https://icp.gov.moe/?keyword=20241984" target="_blank">萌ICP备20241984号</a>"
 
 description: >- # this means to ignore newlines until "baseurl:"
   chuchuren的个人小站
 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/about" # the subpath of your site, e.g. /blog
 url: "https://chuchuren.moe" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "assets/images/chuchuren.png" # the favicon for your site
 
