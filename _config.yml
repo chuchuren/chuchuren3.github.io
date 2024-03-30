@@ -157,8 +157,7 @@ header_pages:
   - index.html
   - about.md
   - articles.html
-  - comments.html
-  - tags.html
+  - categories.html
 
 # Page default value
 # defaults:

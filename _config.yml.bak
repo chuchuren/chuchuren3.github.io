@@ -39,16 +39,15 @@ author: chuchuren
 # For example:
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
-"Copyright © 2024-{currentYear} Chuchuren"
+#
+copyright: "Copyright (c) 2017- {currentYear} Chuchuren"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  chuchuren的个人小站
 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "chuchuren.moe" # the base hostname & protocol for your site, e.g. https://example.com
-favicon: "chuchuren.png" # the favicon for your site
+url: "https://chuchuren.moe" # the base hostname & protocol for your site, e.g. https://example.com
+favicon: "assets/images/chuchuren.png" # the favicon for your site
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -69,10 +68,11 @@ yat:
 # enableDNT: "false"
 
 # If you want to generate website sitemap, you can set true
-sitemap: true
+# sitemap: false
 
 # If you want to change site language, you can set lang option
-lang: "zh-CN"  # default lang is en
+# lang: "en"  # default lang is en
+lang: "zh-CN"
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
@@ -111,6 +111,7 @@ lang: "zh-CN"  # default lang is en
 #
 # Custom color as below:
 # theme_color: "#882250"
+theme_color: #56A7D0
 
 # You can choose a brand color
 # Default brand colors as below:
@@ -119,6 +120,7 @@ lang: "zh-CN"  # default lang is en
 # greenblue: #389092
 #
 # brand_color: orangered
+brand_color: orangered
 #
 # Custom color as below:
 # brand_color: "#1a8e42"
@@ -151,24 +153,24 @@ lang: "zh-CN"  # default lang is en
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-# header_pages:
-#   - index.html
-#   - archives.html
-#   - categories.html
-#   - tags.html
-#   - about.md
+header_pages:
+  - index.html
+  - about.md
+  - articles.html
+  - comments.html
+  - tags.html
 
 # Page default value
 # defaults:
 #   home:
 #     heading: "chuchuren的小站"
 #     subheading: "In solitude, where we are least alone"
-#     banner: "home.jpeg"
- defaults:
-   home:
-     heading: "chuchuren的小站"
-     subheading: "In solitude, where we are least alone"
-     banner: "home.jpeg"
+#     banner: "assets/images/home.jpeg"
+defaults:
+  home:
+    heading: "In solitude, where we are least alone"
+    subheading: "——『ヨスガノソラ』"
+    banner: "assets/images/home.jpeg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
