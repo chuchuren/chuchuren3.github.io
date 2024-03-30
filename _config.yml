@@ -41,11 +41,11 @@ author: chuchuren
 #   "Copyright © 2017-2021 Foobar"
 #
 copyright: 
+  Copyright (c) 2017- {currentYear} Chuchuren|
   <a 
     href="https://icp.gov.moe/?keyword=20241984" target="_blank">
     萌ICP备20241984号
   </a>
-  "Copyright (c) 2017- {currentYear} Chuchuren"
 
 description: >- # this means to ignore newlines until "baseurl:"
   chuchuren的个人小站
